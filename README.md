@@ -17,6 +17,7 @@ Project of Introduction to Virtual Reality Course
 
 ## 介绍 Introduction
 利用Maya对张江图书馆二楼报刊阅览室进行建模 
+
 Model the reading room in the second floor of the library of Fudan Zhangjiang Campus using software Maya.
 
 ## 场景预览 Preview of Scenes

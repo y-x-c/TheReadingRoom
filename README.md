@@ -1,7 +1,23 @@
 # 报刊阅览室 TheReadingRoom
-虚拟现实引论课程项目 Project of Introduction to Virtual Reality Course
+虚拟现实引论课程项目 
+
+Project of Introduction to Virtual Reality Course
+
+## 作者 Contributors
+[Orthocenter](https://github.com/Orthocenter)
+
+[erichuang1994](https://github.com/erichuang1994)
+
+## 引用 References
+- 垃圾桶 Trash
+- 电脑 Computer
+- 仙人掌 Cactus
+- 办公椅 Office Chair
+- 窗外的图片 [URL](http://weibo.com/louqibin)
+
 ## 介绍 Introduction
-利用Maya对张江图书馆二楼报刊阅览室进行建模 Model the reading room in the second floor of the library of Fudan Zhangjiang Campus using software Maya.
+利用Maya对张江图书馆二楼报刊阅览室进行建模 
+Model the reading room in the second floor of the library of Fudan Zhangjiang Campus using software Maya.
 
 ## 场景预览 Preview of Scenes
 
